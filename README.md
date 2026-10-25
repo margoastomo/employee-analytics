@@ -52,7 +52,6 @@ Visuals:
 - Review outcomes shown in the dashboard include Unreviewed, Meets, Exceeds, Needs Support, and Outstanding.
 
 Key Findings
-Based on the values and visuals shown in the dashboard:
 The workforce consists of 2,000 employees, of whom 1,658 are active and 342 are terminated. The displayed active employee rate is 82.90%, while the termination rate is 17.10%.
 There are 342 termination recorded in the report. The termination-type chart shows voluntary terminations as the largest
 category (62.87%), followed by involuntary terminations (28.95%) and retirement (8.19%).
